@@ -3,15 +3,6 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Time</title>
-		<style>
-			#time {
-				color: red;
-				font-size: 30px;
- 
-				
-				
-			}
-		</style>
 	</head>
 	<body>
 		<div id = "time"></div>
@@ -27,7 +18,7 @@
 				var minutes = myTime.getMinutes();
 				var seconds = myTime.getSeconds();
 				
-				var timeStr = '今天是：' +year + '年' + month + '月' + day + '日 星期' + weeks[week]+hours+'时'+minutes+'分'+seconds+'秒';
+				var timeStr = year + '年' + month + '月' + day + '日 星期' + weeks[week]+hours+'时'+minutes+'分'+seconds+'秒';
 				
 				document.getElementById("time").innerHTML = timeStr;
 			}
@@ -36,5 +27,27 @@
 				setInterval('show()' ,1000);
 			}
 		</script>
+
+  <script>
+ /*
+ *屏幕上有根毛
+ */
+!function() {
+    var bottom = Math.floor(60 * Math.random()),
+        right = Math.floor(50 * Math.random()),
+        rotate = Math.floor(360 * Math.random());
+    var foolsEgg = document.createElement("img");
+    foolsEgg.src = "https://search-operate.cdn.bcebos.com/b028c278cbb84660f8bde79d819bc30b.png";
+    foolsEgg.style.position = "fixed"; 
+    foolsEgg.style.bottom = "".concat(bottom, "%");
+    foolsEgg.style.right = "".concat(right, "%"); 
+    foolsEgg.style.zIndex = "9999"; 
+    foolsEgg.style.pointerEvents = "none";
+    foolsEgg.style.width = "40%";
+    foolsEgg.style.maxWidth = "190px";
+    foolsEgg.style.transform = "".concat("rotate(", rotate, "deg)"); 
+    document.body.append(foolsEgg);
+} ();
+</script>
 	</body>
 </html>
