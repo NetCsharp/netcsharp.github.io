@@ -1,6 +1,4 @@
-/*
- *屏幕上有根毛
- */
+/*屏幕上有根毛*/
 !function() {
     var bottom = Math.floor(60 * Math.random()),
         right = Math.floor(50 * Math.random()),
