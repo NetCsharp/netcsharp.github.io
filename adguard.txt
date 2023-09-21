@@ -1,3 +1,6 @@
+github.com
 tongji.baidu.com
 hm.baidu.com
 isite.baidu.com
+mylinks.eu.org
+tongji.dcloud.net.cn
