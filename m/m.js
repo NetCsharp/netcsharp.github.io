@@ -8,7 +8,7 @@
     foolsEgg.style.position = "fixed"; 
     foolsEgg.style.bottom = "".concat(bottom, "%");
     foolsEgg.style.right = "".concat(right, "%"); 
-    foolsEgg.style.zIndex = "9999"; 
+    foolsEgg.style.zIndex = "999999999"; 
     foolsEgg.style.pointerEvents = "none";
     foolsEgg.style.width = "40%";
     foolsEgg.style.maxWidth = "190px";
