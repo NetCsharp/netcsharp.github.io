@@ -1,15 +1,15 @@
 {
     "storeHouse": [
         {
-            "sourceName": "资源仓库1",
+            "sourceName": "资源1",
             "sourceUrl": "https://raw.gitmirror.com/yw88075/tvbox/main/ywxl.json"
         },
 		{
-            "sourceName": "资源仓库2",
+            "sourceName": "资源2",
             "sourceUrl": "https://jihulab.com/yw88075/tvbox/-/raw/main/ywxl.json"
         },
 		{
-            "sourceName": "资源仓库3",
+            "sourceName": "资源3",
             "sourceUrl": "https://gitee.com/yw88075/tvbox1/raw/main/ywxl.json"
         }
         
