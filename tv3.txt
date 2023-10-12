@@ -6,11 +6,11 @@
         },
 		{
             "sourceName": "资源2",
-            "sourceUrl": "https://jihulab.com/yw88075/tvbox/-/raw/main/ywxl.json"
+            "sourceUrl": "https://fastly.jsdelivr.net/gh/tv189ymail/ku2023@main/A1/ck.json"
         },
 		{
             "sourceName": "资源3",
-            "sourceUrl": "https://gitee.com/yw88075/tvbox1/raw/main/ywxl.json"
+            "sourceUrl": "https://gitlab.com/duomv/apps/-/raw/main/fast.json"
         }
         
     ]
