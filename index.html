@@ -21,7 +21,7 @@
 				var timeStr = year + '年' + month + '月' + day + '日 星期' + weeks[week]+hours+'时'+minutes+'分'+seconds+'秒';
 				
 				document.getElementById("time").innerHTML = timeStr;
-				document.title = timeStr;
+				document.title = "Time " + timeStr;
 			}
 			window.onload = function(){
 				show();
