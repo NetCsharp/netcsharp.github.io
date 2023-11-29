@@ -2,7 +2,7 @@
 
 
 
-#可替换IP 125.74.6.15 / 125.74.6.39
+#可替换IP 125.74.6.15 / 125.74.6.39  Perfect Player播放器
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="百视通",CCTV1
 http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="百视通",CCTV2
