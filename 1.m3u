@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="江苏城市",江苏城市
+#EXTINF:-1 tvg-id="江苏城市1" tvg-name="江苏城市1" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="江苏城市1",江苏城市1
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
+#EXTINF:-1 tvg-id="江苏城市2" tvg-name="江苏城市2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="江苏城市2",江苏城市2
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-id="江苏城市3" tvg-name="江苏城市3" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="江苏城市"3,江苏城市3
 http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道-1",CCTV-1 综合
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
