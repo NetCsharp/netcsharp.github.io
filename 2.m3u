@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="江苏城市1" tvg-name="江苏城市1" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市1",江苏城市1
-http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="江苏城市2" tvg-name="江苏城市2" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市2",江苏城市2
-http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
-#EXTINF:-1 tvg-id="江苏城市3" tvg-name="江苏城市3" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市3",江苏城市3
 http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-id="江苏城市2" tvg-name="江苏城市2" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市2",江苏城市2
+http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="江苏城市3" tvg-name="江苏城市3" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市3",江苏城市3
+http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
 
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
 https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
