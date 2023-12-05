@@ -5,3 +5,5 @@ isite.baidu.com
 mylinks.eu.org
 tongji.dcloud.net.cn
 www.alimama.com
+www.taobao.com
+alipay.com
