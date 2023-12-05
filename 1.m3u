@@ -6,8 +6,6 @@ http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="江苏城市3" tvg-name="江苏城市3" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市3",江苏城市3
 http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道-1",CCTV-1 综合
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -302,21 +300,5 @@ http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 #EXTINF:-1 tvg-id="bestv" tvg-name="Bestv" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="其他频道",Bestv导视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001162/index.m3u8
-#EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="购物频道",东方购物1
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001040/index.m3u8
-#EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="购物频道",东方购物2
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001039/index.m3u8
-#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物频道",央广购物
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001420/index.m3u8
-#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="购物频道",优购物
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001440/index.m3u8
-#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://live.fanmingming.com/tv/好享购物.png" group-title="购物频道",好享购物
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001132/index.m3u8
-#EXTINF:-1 tvg-id="聚鲨精选" tvg-name="聚鲨精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="购物频道",聚鲨精选
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001138/index.m3u8
-#EXTINF:-1 tvg-id="家家购物" tvg-name="家家购物" tvg-logo="https://live.fanmingming.com/tv/家家购物.png" group-title="购物频道",家家购物
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001163/index.m3u8
-#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="购物频道",家有购物
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8
 #EXTINF:-1 tvg-id="快乐购" tvg-name="快乐购" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="购物频道",快乐购
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8
