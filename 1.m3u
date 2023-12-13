@@ -3,10 +3,12 @@
 http://223.110.241.204:6610/gitv/live1/G_JSCS/G_JSCS/
 #EXTINF:-1 tvg-id="江苏城市2" tvg-name="江苏城市2" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市2",江苏城市2
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8?icpid=3&RTS=1669269073&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="江苏城市2" tvg-name="江苏城市2" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市3",江苏城市3
+#EXTINF:-1 tvg-id="江苏城市2" tvg-name="江苏城市3" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市3",江苏城市3
 http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="江苏城市3" tvg-name="江苏城市3" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市4",江苏城市4
+#EXTINF:-1 tvg-id="江苏城市3" tvg-name="江苏城市4" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市4",江苏城市4
 http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-id="江苏城市3" tvg-name="江苏城市5" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市5",江苏城市5
+http://2016.328326.com:3005/jstv/video?vodId=jscs
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
