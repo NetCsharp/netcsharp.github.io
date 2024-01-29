@@ -8,14 +8,14 @@ http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="江苏城市4" tvg-name="江苏城市4" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市4",江苏城市4
 http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
 #EXTINF:-1 tvg-id="江苏城市5" tvg-name="江苏城市5" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市5",江苏城市5
-http://2016.328326.com:3005/jstv/video?vodId=jscs
+http://222.92.7.170:3333/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
-https://live.goodiptv.club/api/sxg.php?id=CCTV-1H265_4000
+http://222.92.7.170:3333/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
 https://live.goodiptv.club/api/sxg.php?id=CCTV-2H265_4000
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
-https://live.goodiptv.club/api/sxg.php?id=CCTV-3H265_4000
+http://222.92.7.170:3333/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
 https://live.goodiptv.club/api/sxg.php?id=CCTV-4H265_4000
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5 体育
@@ -23,7 +23,7 @@ https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6 电影
-https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
+http://222.92.7.170:3333/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
 https://live.goodiptv.club/api/sxg.php?id=CCTV-7H265_4000
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
