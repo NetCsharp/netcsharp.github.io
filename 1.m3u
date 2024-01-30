@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="江苏城市1" tvg-name="江苏城市1" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市1",江苏城市1
 http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
-
 #EXTINF:-1 tvg-id="江苏城市2" tvg-name="江苏城市2" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市2",江苏城市2
 http://222.189.51.62:8888/newlive/live/hls/51/live.m3u8
 #EXTINF:-1 tvg-id="江苏城市3" tvg-name="江苏城市3" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市3",江苏城市3
@@ -14,10 +13,11 @@ http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
 http://222.92.7.170:3333/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="江苏城市7" tvg-name="江苏城市7" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市7",江苏城市7
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
-
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
 http://58.209.101.210:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合 IPV6
+http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964344116_67852184/ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
 http://58.209.101.210:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
@@ -30,6 +30,8 @@ http://58.209.101.210:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=
 https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6 电影
 http://58.209.101.210:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6 电影 IPV6
+http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw91569092_-532273102/ott.mobaibox.com/PLTV/3/224/3221228185/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
 http://58.209.101.210:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
