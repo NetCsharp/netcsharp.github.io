@@ -12,6 +12,9 @@ http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv
 http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
 #EXTINF:-1 tvg-id="江苏城市6" tvg-name="江苏城市6" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市6",江苏城市6
 http://222.92.7.170:3333/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="江苏城市7" tvg-name="江苏城市7" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市7",江苏城市7
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
+
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
 http://58.209.101.210:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
