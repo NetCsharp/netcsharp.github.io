@@ -1,45 +1,46 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+
 #EXTINF:-1 tvg-id="江苏城市1" tvg-name="江苏城市1" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市1",江苏城市1
-http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8?icpid=3&RTS=1669269073&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="江苏城市2" tvg-name="江苏城市2" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市2",江苏城市2
-http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="江苏城市3" tvg-name="江苏城市3" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市3",江苏城市3
-http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
-#EXTINF:-1 tvg-id="江苏城市4" tvg-name="江苏城市4" tvg-logo="https://static.jstv.com/ui/common/images/logo.png" group-title="江苏城市4",江苏城市4
-http://2016.328326.com:3005/jstv/video?vodId=jscs
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
+ 
+
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
-https://live.goodiptv.club/api/sxg.php?id=CCTV-1H265_4000
+http://58.209.101.210:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合 IPV6
+http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964344116_67852184/ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
-https://live.goodiptv.club/api/sxg.php?id=CCTV-2H265_4000
+http://58.209.101.210:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
-https://live.goodiptv.club/api/sxg.php?id=CCTV-3H265_4000
+http://58.209.101.210:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
-https://live.goodiptv.club/api/sxg.php?id=CCTV-4H265_4000
+http://58.209.101.210:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5 体育
-https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
+http://58.209.101.210:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6 电影
-https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
+http://58.209.101.210:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6 电影 IPV6
+http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw91569092_-532273102/ott.mobaibox.com/PLTV/3/224/3221228185/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
-https://live.goodiptv.club/api/sxg.php?id=CCTV-7H265_4000
+http://58.209.101.210:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
-https://live.goodiptv.club/api/sxg.php?id=CCTV-8H265_4000
+http://58.209.101.210:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9 纪录
-https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
+http://58.209.101.210:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10 科教
-https://live.goodiptv.club/api/sxg.php?id=CCTV-10H265_4000
+http://58.209.101.210:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
-https://live.goodiptv.club/api/sxg.php?id=CCTV-11-H265_4000
+http://58.209.101.210:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12 社会与法
-https://live.goodiptv.club/api/sxg.php?id=CCTV-12H265_4000
+http://58.209.101.210:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13 新闻
-https://live.goodiptv.club/api/sxg.php?id=CCTV-xw_4000
+http://58.209.101.210:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14 少儿
-https://live.goodiptv.club/api/sxg.php?id=CCTV-14H265_4000
+http://58.209.101.210:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
-https://live.goodiptv.club/api/sxg.php?id=CCTV-15-yyH265_4000
+http://58.209.101.210:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 https://live.goodiptv.club/api/sxg.php?id=CCTV-16_4000
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
@@ -523,24 +524,3 @@ https://live.goodiptv.club/api/sxg.php?id=zggg_4000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/自贡综合.png" group-title="其他",自贡综合
 https://live.goodiptv.club/api/sxg.php?id=zgxw_4000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/郫县新闻综合.png" group-title="其他",郫县新闻综合
-https://live.goodiptv.club/api/sxg.php?id=pxds1_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/荥经电视台.png" group-title="其他",荥经电视台
-https://live.goodiptv.club/api/sxg.php?id=xjdst_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/阆中综合.png" group-title="其他",阆中综合
-https://live.goodiptv.club/api/sxg.php?id=lzxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/沐川综合.png" group-title="其他",沐川综合
-https://live.goodiptv.club/api/sxg.php?id=mcxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泸定综合.png" group-title="其他",泸定综合频道
-https://live.goodiptv.club/api/sxg.php?id=ldxw_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泸县综合.png" group-title="其他",泸县综合
-https://live.goodiptv.club/api/sxg.php?id=lxxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泸州公共.png" group-title="其他",泸州公共
-https://live.goodiptv.club/api/sxg.php?id=lzgg_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/珙县新闻.png" group-title="其他",珙县新闻
-https://live.goodiptv.club/api/sxg.php?id=gxzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/梓潼综合.png" group-title="其他",梓潼综合
-https://live.goodiptv.club/api/sxg.php?id=ztgq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/犍为新闻综合.png" group-title="其他",犍为新闻综合
-https://live.goodiptv.club/api/sxg.php?id=qwxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/筠连TV.png" group-title="其他",筠连TV
-https://live.goodiptv.club/api/sxg.php?id=ylyt_2000
