@@ -7,7 +7,7 @@ http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
 http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
-http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
+rtsp://27.148.236.1:554/live/ch17081011542536199690.sdp?playtype=1&FccMediaIP=239.61.2.206&FccMediaPort=9224&boid=001&backupagent=27.148.236.1:554&clienttype=1&time=20230111173718+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5932751610499&mediaid=ch17081011542536199690&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=B410049900703340000090D8F3CE0BD7&nodelevel=3&profilecode=&AuthInfo=%2FxNq1d2xBwq5GNwMK1%2FrCM15wnbM%2Bk%2FqPHe6lHhiAKe%2Bxi92f5OQqho4v43Wc0MdPT16yMd5gGfEsRkCLuN0Bw%3D%3D&bitrate=2000&distype=0
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5 体育
 http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5+ 体育
