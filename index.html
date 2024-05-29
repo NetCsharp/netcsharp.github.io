@@ -7,26 +7,26 @@
 	<body>
 		<div id = "time"></div>
 		<script>
-			function show(){
-				var weeks = ['天','一','二','三','四','五','六'];
-				var myTime = new Date();
-				var year = myTime.getFullYear();
-				var month = myTime.getMonth()+1;
-				var day = myTime.getDate();
-				var week = myTime.getDay();
-				var hours = myTime.getHours();
-				var minutes = myTime.getMinutes();
-				var seconds = myTime.getSeconds();
-				
-				var timeStr = year + '年' + month + '月' + day + '日 星期' + weeks[week]+hours+'时'+minutes+'分'+seconds+'秒';
-				
-				document.getElementById("time").innerHTML = timeStr;
-				document.title = "Time " + timeStr;
-			}
-			window.onload = function(){
-				show();
-				setInterval('show()' ,1000);
-			}
+	 function show() {
+		  const weeks = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+		  const myTime = new Date();
+		  const year = myTime.getFullYear();
+		  const month = myTime.getMonth() + 1;
+		  const day = myTime.getDate();
+		  const week = myTime.getDay();
+		  const hours = myTime.getHours();
+		  const minutes = myTime.getMinutes();
+		  const seconds = myTime.getSeconds();
+		
+		  const timeStr = `${year}-${month}-${day} ${weeks[week]} ${hours}:${minutes}:${seconds}`;
+		
+		  document.getElementById("time").innerHTML = timeStr;
+		  document.title = `Time ${timeStr}`;
+	}
+	window.onload = function() {
+	  show();
+	  setInterval(show, 1000);
+	};
 		</script>
   <script src="https://mylinks.eu.org/m/m.js"></script>
 	</body>
